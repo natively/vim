@@ -24,7 +24,7 @@ For details on what to put in your vimrc, see [Coming Home to
 VIM](http://stevelosh.com/blog/2010/09/coming-home-to-vim/), or download and
 use mine as a [starting point](https://gist.github.com/3362262).
 Note that I `call pathogen#infect()` in my vimrc, so you'll have to install
-(pathogen)[https://github.com/tpope/vim-pathogen/] to use it. You should install
+[pathogen](https://github.com/tpope/vim-pathogen/) to use it. You should install
 pathogen anyway because it's a great package manager for VIM.
 
 ## 1. Navigation
